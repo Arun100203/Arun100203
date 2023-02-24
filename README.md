@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="22" src="svg/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/arunarunarun7354/" title="LeetCode Profile"><img width="22" src="https://leetcode.com/static/svg/LeetCode_logo_rvs.png"> LeetCode</a></code>
+    <a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="22" src="svg/linkedin-svgrepo-com"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/arunarunarun7354/" title="LeetCode Profile"><img width="22" src="https://leetcode.com/static/svg/leetcode.svg"> LeetCode</a></code>
  
 </h5>
 <h5 align="center">
@@ -40,7 +40,7 @@
 <code><img title="Git" height="25" src="svg/git-original.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="svg/vscode.png"></code>
 <code><img title="Microsoft Visual Studio" height="25" src="svg/visualstudio.png"></code>
-<code><img title="GitHub" height="25" src="svg/github.svg"></code>
+<code><img title="GitHub" height="25" src="svg/github(1).svg"></code>
 
 </p>
 <hr>
