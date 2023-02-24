@@ -41,6 +41,7 @@
 <code><img title="Visual Studio Code" height="25" src="svg/vscode.png"></code>
 <code><img title="Microsoft Visual Studio" height="25" src="svg/visualstudio.png"></code>
 <code><img title="GitHub" height="25" src="svg/github (1).svg"></code>
+ <code><img title="Flutter" height="25" src="svg/flutter.png"></code>
 
 </p>
 <hr>
