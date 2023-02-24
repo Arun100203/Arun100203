@@ -20,7 +20,7 @@
   Hi, I'm Arun, A Flutter Developer from India
   <br>
   <br>
-  🎓 I graduated from VSB Engineering College, Karur In B.E(CSE)
+  🎓 I'm currently pursuing from VSB Engineering College, Karur In B.E(CSE)
   <br>
   💻 I love creating Wondering things using Flutter.
   <br>
