@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Arun....;Nice+to+meet+you!;Flutter+developer...&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Arun....;Flutter+developer...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
  
 </h5>
 <h5 align="center">
-  <code><a href="https:/arun.engineer/" title="Portfolio"> 👑Portfolio👑</a></code>
+  <code><a href="arun.engineer" title="Portfolio"> 👑Portfolio👑</a></code>
 </h5>
 
 <p align="center">
