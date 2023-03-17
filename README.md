@@ -68,14 +68,16 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arun100203&theme=react&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-
+<div align="center">
+  
 ## 🏆GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=arun100203&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=arun100203&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ### ✍️Random Dev Quote
 
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</div>
 
 <hr>
 
