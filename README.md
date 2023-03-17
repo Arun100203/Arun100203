@@ -67,7 +67,11 @@
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arun100203&theme=react&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+
 ## 🏆GitHub Trophies
+
+
 ![](https://github-profile-trophy.vercel.app/?username=arun100203&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <hr>
 
