@@ -20,29 +20,45 @@
   Hi, I'm Arun, A Flutter Developer from India
   <br>
   <br>
-  🎓 I'm currently pursuing from V.S.B. Engineering College, Karur In B.E(CSE)
+  🎓 I'm currently pursuing B.E(CSE) in V.S.B. Engineering College, Karur.
   <br>
-  💻 I love creating Wondering things using Flutter.
+  💻 I love creating Wondering things using Flutter, .
   <br>
-  <!-- 📫 My Portfolio: <a href="https://arun.engineer/">Feel Free To Contact Me</a> -->
+  📫 My Portfolio: <a href="https://arun.engineer/">Feel Free To Contact Me</a> 
 </p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
+<h2 align="center">
 
-<code><img title="Problem Solving" height="25" src="svg/problemSolving.png"></code>
-<code><img title="HTML5" height="25" src="svg/html5.svg"></code>
-<code><img title="CSS" height="25" src="svg/css.svg"></code>
-<code><img title="Java" height="25" src="svg/java-original.svg"></code>
+<code><img title="Problem Solving" height="50" src="svg/problemSolving.png"></code>
+<code><img title="HTML5" height="50" src="svg/html5.svg"></code>
+<code><img title="CSS" height="50" src="svg/css.svg"></code>
+<code><img title="Java" height="50" src="svg/java-original.svg"></code>
 
-<code><img title="Git" height="25" src="svg/git-original.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="svg/vscode.png"></code>
-<code><img title="GitHub" height="25" src="svg/github (1).svg"></code>
- <code><img title="Flutter" height="25" src="svg/flutter.png"></code>
+<code><img title="Git" height="50" src="svg/git-original.svg"></code>
+<code><img title="Visual Studio Code" height="50" src="svg/vscode.png"></code>
+<code><img title="GitHub" height="50" src="svg/github (1).svg"></code>
+ <code><img title="Flutter" height="50" src="svg/flutter.png"></code>
 
-</p>
+<!-- <code><img title="Dart" height="50" src="svg/dartlang-icon.svg"></code>
+<code><img title="MySQL" height="50" src="svg/mysql-icon.svg"></code>
+<code><img title="Firebase" height="50" src="svg/firebase-icon.svg"></code>
+<code><img title="Unity" height="50" src="svg/unity3d.svg"></code>
+
+<code><img title="Javascript" height="50" src="svg/javascript-logo-svgrepo-com.svg"></code>
+<code><img title="Azure" height="50" src="svg/microsoft_azure-icon.svg"></code>
+<code><img title="Android Studio" height="50" src="svg/Android Studio.svg"></code>
+<code><img title="Flutter" height="50" src="svg/flutter.png"></code>
+
+<code><img title="MongoDB" height="50" src="svg/mongodb-ar21.svg"></code>
+<code><img title="Express" height="50" src="svg/express-svgrepo-com.svg"></code>
+<code><img title="React" height="50" src="svg/react-2.svg"></code>
+<code><img title="Node" height="50" src="svg/nodejs-horizontal.svg"></code> -->
+
+ 
+</h2>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -65,7 +81,10 @@
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arun100203&theme=react&bg_color=20232a&hide_border=true" width="100%"/>
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arun100203&theme=react&bg_color=20232a&hide_border=true" width="100%"/> -->
+  
+  [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun100203&bg_color=313030&color=638ee3&line=6496e8&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </p>
 
 <div align="center">
