@@ -6,14 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun&label=Profile%20views&color=0e75b6&style=flat" alt="arun" /> </p>
 
+
+<h5 align="center"><code><a href="https://arun.engineer" title="Portfolio"> 👑Portfolio👑</a></code></h5>
+
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="22" src="svg/linkedin-svgrepo-com.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/arunarunarun7354/" title="LeetCode Profile"><img width="22" src="svg/leetcode.svg"> LeetCode</a></code>
+  <code><a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="22" src="svg/linkedin-svgrepo-com.svg"> LinkedIn </a></code>
+  <code><a href="https://leetcode.com/arunarunarun7354/" title="Geeks for Geeks Profile"><img width="22" src="svg/leetcode.svg"> LeetCode </a></code>
+   <code><a href="https://auth.geeksforgeeks.org/user/arunarunarun7354/" title="LeetCode Profile"><img width="22" src="svg/geeksforgeeks-svgrepo-com.svg"> Geeks for Geeks </a></code>
  
-</h5>
-<h5 align="center">
-  <code><a href="https://arun.engineer" title="Portfolio"> 👑Portfolio👑</a></code>
 </h5>
 
 <p align="center">
