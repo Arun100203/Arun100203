@@ -1,20 +1,22 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Arun....;Flutter+developer...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Arun😇...;Flutter+developer✨...;Nice+to+meet+you💖!&center=true&size=30">
   </a>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun&label=Profile%20views&color=0e75b6&style=flat" alt="arun" /> </p>
 
 
-<h5 align="center"><code><a href="https://arun.engineer" title="Portfolio"> 👑Portfolio👑</a></code></h5>
+<h4 align="center"><code><a href="https://arun.engineer" title="Portfolio" > 👑Portfolio👑</a> </code></h4>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="22" src="svg/linkedin-svgrepo-com.svg"> LinkedIn </a></code>
-  <code><a href="https://leetcode.com/arunarunarun7354/" title="LeetCode Profile"><img width="22" src="svg/leetcode.svg"> LeetCode </a></code>
-   <code><a href="https://auth.geeksforgeeks.org/user/arunarunarun7354/" title="Geeks for Geeks Profile"><img width="22" src="svg/geeksforgeeks-svgrepo-com.svg"> Geeks for Geeks </a></code>
- 
-</h5>
+<h4 align="center">
+  <code><a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="35" src="svg/linkedin-svgrepo-com.svg"> LinkedIn </a></code>
+  <code><a href="https://leetcode.com/arunarunarun7354/" title="LeetCode Profile"><img width="35" src="svg/leetcode.svg"> LeetCode </a></code>
+   <code><a href="https://codedamn.com/user/arun100203" title="Codedamn"><img width="35" src="svg/codedamn.png"> Codedamn </a></code>
+   <code><a href="https://auth.geeksforgeeks.org/user/arunarunarun7354/" title="Geeks for Geeks Profile"><img width="35" src="svg/geeksforgeeks-svgrepo-com.svg"> Geeks for Geeks </a></code>
+     <code><a href="https://www.hackerrank.com/profile/arunarunarun7354" title="Hacker Rank"><img width="35" src="svg/hackerrank.png"> Hacker Rank </a></code>
+     
+</h4>
 
 <p align="center">
   Hi, I'm Arun, A Flutter Developer from India
