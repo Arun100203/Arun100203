@@ -10,11 +10,11 @@
 <h4 align="center"><code><a href="https://arun.engineer" title="Portfolio" > 👑Portfolio👑</a> </code></h4>
 
 <h4 align="center">
-  <code><a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="35" src="svg/linkedin-svgrepo-com.svg"> LinkedIn </a></code>
-  <code><a href="https://leetcode.com/arunarunarun7354/" title="LeetCode Profile"><img width="35" src="svg/leetcode.svg"> LeetCode </a></code>
-   <code><a href="https://codedamn.com/user/arun100203" title="Codedamn"><img width="35" src="svg/codedamn.png"> Codedamn </a></code>
-   <code><a href="https://auth.geeksforgeeks.org/user/arunarunarun7354/" title="Geeks for Geeks Profile"><img width="35" src="svg/geeksforgeeks-svgrepo-com.svg"> Geeks for Geeks </a></code>
-     <code><a href="https://www.hackerrank.com/profile/arunarunarun7354" title="Hacker Rank"><img width="35" src="svg/hackerrank.png"> Hacker Rank </a></code>
+  <code><a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="30" src="svg/linkedin-svgrepo-com.svg"> LinkedIn </a></code>
+  <code><a href="https://leetcode.com/arunarunarun7354/" title="LeetCode Profile"><img width="30" src="svg/leetcode.svg"> LeetCode </a></code>
+   <code><a href="https://codedamn.com/user/arun100203" title="Codedamn"><img width="30" src="svg/codedamn.png"> Codedamn </a></code>
+   <code><a href="https://auth.geeksforgeeks.org/user/arunarunarun7354/" title="Geeks for Geeks Profile"><img width="30" src="svg/geeksforgeeks-svgrepo-com.svg"> Geeks for Geeks </a></code>
+     <code><a href="https://www.hackerrank.com/profile/arunarunarun7354" title="Hacker Rank"><img width="30" src="svg/hackerrank.png"> Hacker Rank </a></code>
      
 </h4>
 
