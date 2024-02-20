@@ -45,9 +45,9 @@
 <code><img title="Git" height="50" src="svg/git-original.svg"></code>
 <code><img title="Visual Studio Code" height="50" src="svg/vscode.png"></code>
 <code><img title="GitHub" height="50" src="svg/github (1).svg"></code>
- <code><img title="Flutter" height="50" src="svg/flutter.png"></code>
+<code><img title="Flutter" height="50" src="svg/flutter.png"></code>
 
-<!-- <code><img title="Dart" height="50" src="svg/dartlang-icon.svg"></code>
+<code><img title="Dart" height="50" src="svg/dartlang-icon.svg"></code>
 <code><img title="MySQL" height="50" src="svg/mysql-icon.svg"></code>
 <code><img title="Firebase" height="50" src="svg/firebase-icon.svg"></code>
 <code><img title="Unity" height="50" src="svg/unity3d.svg"></code>
@@ -60,7 +60,7 @@
 <code><img title="MongoDB" height="50" src="svg/mongodb-ar21.svg"></code>
 <code><img title="Express" height="50" src="svg/express-svgrepo-com.svg"></code>
 <code><img title="React" height="50" src="svg/react-2.svg"></code>
-<code><img title="Node" height="50" src="svg/nodejs-horizontal.svg"></code> -->
+<code><img title="Node" height="50" src="svg/nodejs-horizontal.svg"></code> 
 
  
 </h2>
@@ -97,6 +97,7 @@
 ## 🏆GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arun100203&theme=tokyonight&column=7&margin-w=9&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 ### ✍️Random Dev Quote
 
 
@@ -105,7 +106,7 @@
 
 
 
-<!--<div >
+<div >
   <details>
     <summary><h2> 💥Achievements of 2023 💖 </h2> </summary>
     <img align="center" height="500" src="https://github.com/Arun100203/Arun100203/assets/108601293/c3b9101e-9892-4ada-b994-fb556382a3c1" alt="Rewind-leetcode-2023">
@@ -119,7 +120,7 @@
     <img align="center" width="480" src="svg/UDEMY CSS.jpg" alt="UDEMY CSS Course certificate">
   </details>
   
-</div>-->
+</div>
 
 <!--
 <hr>
