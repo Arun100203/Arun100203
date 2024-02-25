@@ -45,7 +45,7 @@
 <code><img title="Visual Studio Code" height="50" src="svg/vscode.png"></code>
 <code><img title="GitHub" height="50" src="svg/github (1).svg"></code>
 
-<code><img title="Flutter" height="50" src="svg/flutter.png"></code>
+<code><img title="Bootstrap" height="50" src="svg/bootstrap.svg"></code>
 <code><img title="Dart" height="50" src="svg/dartlang-icon.svg"></code>
 <code><img title="MySQL" height="50" src="svg/mysql-icon.svg"></code>
 <code><img title="Unity" height="50" src="svg/unity3d.svg"></code>
