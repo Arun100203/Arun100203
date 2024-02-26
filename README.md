@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun&label=Profile%20views&color=0e75b6&style=flat" alt="arun" /> </p>
 
 
-<h4 align="center"><code><a href="https://arun.engineer" title="Portfolio" > 👑Portfolio👑</a> </code></h4>
+<h4 align="center"><code><a href="https://arunl.me" title="Portfolio" > 👑Portfolio👑</a> </code></h4>
 
 <h4 align="center">
   <code><a href="https://www.linkedin.com/in/arun-l-ba488022a/" title="LinkedIn Profile"><img width="30" src="svg/linkedin-svgrepo-com.svg"> LinkedIn </a></code>
@@ -29,7 +29,7 @@
   <br>
   💻 I love creating Wondering things using Flutter, .
   <br>
-  📫 My Portfolio: <a href="https://arun.engineer/">Feel Free To Contact Me</a> 
+  📫 My Portfolio: <a href="https://arunl.me">Feel Free To Contact Me</a> 
 </p>
 
 <hr>
@@ -51,10 +51,13 @@
 <code><img title="Unity" height="50" src="svg/unity3d.svg"></code>
 <code><img title="Javascript" height="50" src="svg/javascript-logo-svgrepo-com.svg"></code>
 <code><img title="Node" height="50" src="svg/nodejs-horizontal.svg"></code> 
-
 <code><img title="Azure" height="50" src="svg/microsoft_azure-icon.svg"></code>
-<code><img title="Android Studio" height="50" src="svg/Android Studio.svg"></code>
+
+
+<code><img title="Ruby" height="50" src="svg/ruby.svg"></code>
+<code><img title="Ruby On Rails" height="50" src="svg/ruby-on-rails.svg"></code>
 <code><img title="Flutter" height="50" src="svg/flutter.png"></code>
+<code><img title="Android Studio" height="50" src="svg/Android Studio.svg"></code>
 <code><img title="MongoDB" height="50" src="svg/mongodb-ar21.svg"></code>
 <code><img title="Express" height="50" src="svg/express-svgrepo-com.svg"></code>
 <code><img title="React" height="50" src="svg/react-2.svg"></code>
@@ -62,7 +65,6 @@
 
  
 </h2>
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -83,13 +85,14 @@
     </a>
   </div>
   <br>
+  <hr>
   
   <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arun100203&theme=react&bg_color=20232a&hide_border=true" width="100%"/> -->
   
   [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun100203&bg_color=313030&color=638ee3&line=6496e8&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </p>
-
+<hr>
 <div align="center">
   
 ## 🏆GitHub Trophies
@@ -97,8 +100,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=arun100203&theme=tokyonight&column=7&margin-w=9&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <hr>
-### ✍️Random Dev Quote
 
+## ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 </div>
