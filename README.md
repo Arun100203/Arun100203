@@ -111,14 +111,27 @@
 <div >
   <details>
     <summary><h2> 💥Achievements of 2023 💖 </h2> </summary>
-    <img align="center" height="500" src="https://github.com/Arun100203/Arun100203/assets/108601293/c3b9101e-9892-4ada-b994-fb556382a3c1" alt="Rewind-leetcode-2023">
     <img align="center" width="480" src="svg/GFG Profile.png" alt="GFG Profile">
     <img align="center" width="480" src="svg/Codedamn.png" alt="Codedamn Profile">
-    <img align="center" width="500" src="svg/Codedamn Weekly Report.png" alt="Codedamn Weekly Report">
+    <img align="center" width="480" src="svg/Codedamn Weekly Report.png" alt="Codedamn Weekly Report">
+	  <img align="center" width="480" src="https://codedamn-user-screenshots.s3.amazonaws.com/f7fc1a0a4091ef57b336ee857ee7bfdbd7ef697a/1705488072320.png"
+		alt="Course certificate for course on codedamn" />
+  	<img align="center" width="480" src="https://codedamn-user-screenshots.s3.amazonaws.com/0aa82f326aee244aa6b239b6b8c244c99e54193d/1704499759202.png"
+		alt="Course certificate for course on codedamn"	/>
+    <img align="center" width="480" src="https://codedamn-user-screenshots.s3.amazonaws.com/7e6b32e7469c1edb8c40ed8a6ce73f6db7849fe1/1704415570307.png"
+		alt="Course certificate for course on codedamn"	/>
+    <img align="center" height="500" src="https://github.com/Arun100203/Arun100203/assets/108601293/c3b9101e-9892-4ada-b994-fb556382a3c1" alt="Rewind-leetcode-2023">
+    <img align="center" src="https://github.com/Arun100203/Arun100203/assets/108601293/0874e322-e4ef-4ee2-ba83-65ddefd13848"
+		alt="Global name list"	/>
+    
+  
+
   </details>
   
 </div>
 
+  <!-- ![image](https://github.com/Arun100203/Arun100203/assets/108601293/0874e322-e4ef-4ee2-ba83-65ddefd13848) -->
+  
 <!--
 <hr>
 
